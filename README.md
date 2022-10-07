@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Carbon Capture and Storage in geologic formations
+- 🌱 I’m currently learning Python, JavaScript, HTML,SQL
+- 🤔 I'm interested in Data Analytics, Web Development, Machine Learning, Software Developmennt
+- 📫 How to reach me: nnwanorue@gmail.com
 <!--
 **zubyuche/zubyuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
