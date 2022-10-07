@@ -1,4 +1,5 @@
 ### Hi there 👋
+                       Petroleum and Gas Engineer with huge passion in Tech!
 - 🔭 I’m currently working on Carbon Capture and Storage in geologic formations
 - 🌱 I’m currently learning Python, JavaScript, HTML,SQL
 - 🤔 I'm interested in Data Analytics, Web Development, Machine Learning, Software Developmennt
